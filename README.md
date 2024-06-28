@@ -1,4 +1,6 @@
  <h1 align="center">Hola 👋, soy Pablo</h1>
+ <img src="https://images.squarespace-cdn.com/content/v1/645a1b40996e051496a2da2c/9307be96-cb8c-4718-a300-8da19e55ae8b/Appleism+cult.+Ylyth+Magazine+AIPix.+2023.png?format=2500w" alt=width="720" height="720"/>
+ 
 <h3 align="center">Un apasionado del desarrollo IOS y del skate.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablodev82" alt="pablodev82" /></a> </p>
