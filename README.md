@@ -1,4 +1,4 @@
- <h1 align="center">Hola Soy PABLO 👋</h1>
+ <h1 align="center">Hi I'm PABLO 👋</h1>
  <img src="https://images.squarespace-cdn.com/content/v1/645a1b40996e051496a2da2c/9307be96-cb8c-4718-a300-8da19e55ae8b/Appleism+cult.+Ylyth+Magazine+AIPix.+2023.png?format=2500w" alt=width="720" height="720"/>
  
 <h3 align="center">Un apasionado del desarrollo IOS y del skate.</h3>
