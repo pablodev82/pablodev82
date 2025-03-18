@@ -17,7 +17,7 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
 
- <a href="mailto:hi@anmolbaranwal.com"><img src="https://camo.githubusercontent.com/ed9175462889ad302f429741f144ae40122246b5c790e486c5ab9263192b2cf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d304130323039" alt="El correo electrónico de Anmol es hi@anmolbaranwal.com" data-canonical-src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&amp;logo=gmail&amp;logoColor=0A0209" style="max-width: 100%;"></a>
+ <a href="paredespablosk8@gmail.com"><img src="https://camo.githubusercontent.com/ed9175462889ad302f429741f144ae40122246b5c790e486c5ab9263192b2cf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d304130323039" alt="El correo electrónico de Anmol es hi@anmolbaranwal.com" data-canonical-src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&amp;logo=gmail&amp;logoColor=0A0209" style="max-width: 100%;"></a>
 
  
 <h2 align="left">Idiomas y herramientas:</h2>
