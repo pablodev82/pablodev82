@@ -22,7 +22,7 @@
 
 <h3 align="left">Idiomas y herramientas:</h3>
 
-- Swift / SwiftUI / UIKit/Objective-C <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
+- Swift / SwiftUI / UIKit/ Objective-C <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - Html / Css / Javascript<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 - Python <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 
