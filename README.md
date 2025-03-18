@@ -11,9 +11,12 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80">
+ - www.linkedin.com/in/pablo-paredes-dev-ios
+
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80">
 
 - 📫 **paredespablosk8@gmail.com**
-- www.linkedin.com/in/pablo-paredes-dev-ios
+ 
 <p align="left">
  
 
