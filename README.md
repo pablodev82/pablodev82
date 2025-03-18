@@ -21,7 +21,7 @@
  <a href="https://www.linkedin.com/in/pablo-paredes-rojas-b11662291/">
   <img src="https://camo.githubusercontent.com/ac7efb8b51819e0200381a20f786fec6c747fb736773b1dcc76591e3be873aef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d304130323039" alt="Perfil de LinkedIn de Pablo Paredes Rojas" data-canonical-src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A0209" style="max-width: 100%;">
 </a>
-  <a href="paredespablosk8@gmail.com">
+<a href="mailto:paredespablosk8@gmail.com">
    <img src="https://camo.githubusercontent.com/ed9175462889ad302f429741f144ae40122246b5c790e486c5ab9263192b2cf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d304130323039" alt="El correo electrónico de Anmol es hi@anmolbaranwal.com" data-canonical-src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&amp;logo=gmail&amp;logoColor=0A0209" style="max-width: 100%;">
   </a>
 </div>
