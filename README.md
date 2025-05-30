@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm PABLO <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" ></h1>
-<p align="center" dir="auto"> <img src="https://images.squarespace-cdn.com/content/v1/645a1b40996e051496a2da2c/9307be96-cb8c-4718-a300-8da19e55ae8b/Appleism+cult.+Ylyth+Magazine+AIPix.+2023.png?format=2500w" widht = 400 height="400"/></p>
+ <p align="center" dir="auto"> <style> img { ancho máximo: 100%; alto: automático; } </style> <img src="https://images.squarespace-cdn.com/content/v1/645a1b40996e051496a2da2c/9307be96-cb8c-4718-a300-8da19e55ae8b/Culto al Appleismo.+Ylyth+Magazine+AIPix.+2023.png?format=2500w" /> </p>
 <h2 align="center" style="display: inline; vertical-align: middle;">Un apasionado del Desarrollo IOS y del skate.</h2>
  <div>
   ¡No dudes en contactarme si tienes alguna oportunidad interesante o simplemente quieres charlar sobre desarrollo iOS y el mundo del skate! 🛹</p>
