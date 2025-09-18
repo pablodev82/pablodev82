@@ -11,22 +11,20 @@
 </div>
 </p>
 
- <p>Principalmente desarrollando la nueva App del futuro.
-
  👋 ¡Hola! Soy Pablo Paredes, un **Desarrollador iOS apasionado** con experiencia en la creación de aplicaciones innovadoras y centradas en el usuario.
 
 💼 He trabajado en **compañías internacionales de Latam y España**, donde he contribuido al desarrollo de soluciones móviles de alta calidad y escalables, utilizando las últimas tecnologías y metodologías de desarrollo.
 
-🚀 Mi enfoque principal es escribir código limpio, eficiente y bien documentado. Disfruto enfrentando desafíos técnicos y aprendiendo continuamente para mantenerme al día con el siempre cambiante mundo del desarrollo de iOS.
+🚀 **Mi enfoque principal es escribir código limpio, eficiente y bien documentado. Disfruto enfrentando desafíos técnicos y aprendiendo continuamente para mantenerme al día con el siempre cambiante mundo del desarrollo de IOS**.
 
 🛠️ **Mis habilidades incluyen:**
 
 * Lenguaje: **Swift**
 * Frameworks y Librerías: **UIKit**, **SwiftUI**, **Core Data**, **Networking**, **Firebase**, **CocoaPods**, **SPM (Swift Package Manager)**
-* Arquitecturas: **MVVM**
+* Arquitecturas: **MVVM** | **ViPER**
 * Patrones de Diseño
 * Pruebas Unitarias e de Interfaz de Usuario (Unit & UI Testing)
-* Control de Versiones: **Git**
+* Control de Versiones: **Git** |**Github**
 * Metodologías Ágiles 
 * Integración con APIs RESTful (JSON, XML)
 * Experiencia en depuración y resolución de problemas
