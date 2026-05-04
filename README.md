@@ -11,31 +11,41 @@
 </div>
 </p>
 
- 👋 ¡Hola! Soy Pablo Paredes, un **Desarrollador iOS apasionado** con experiencia en la creación de aplicaciones innovadoras y centradas en el usuario.
+ 👋 🚀 Desarrollador iOS especializado en la creación de aplicaciones móviles escalables y de alto rendimiento con Swift, SwiftUI y UIKit.
+
+💡 Sobre mí
+
+Soy desarrollador iOS con experiencia en la entrega de aplicaciones de nivel de producción en Latinoamérica y España, enfocado en arquitectura limpia, rendimiento y experiencia de usuario.
+
+He trabajado en la creación de aplicaciones modulares y escalables, implementando funcionalidades clave como flujos de autenticación, componentes de interfaz de usuario reutilizables e integraciones de API.
+
+Mi formación en análisis de datos y optimización de procesos me permite abordar el desarrollo con una mentalidad orientada al rendimiento y a la resolución de problemas.
 
 💼 He trabajado en **compañías internacionales de Latam y España**, donde he contribuido al desarrollo de soluciones móviles de alta calidad y escalables, utilizando las últimas tecnologías y metodologías de desarrollo.
 
 🚀 **Mi enfoque principal es escribir código limpio, eficiente y bien documentado. Disfruto enfrentando desafíos técnicos y aprendiendo continuamente para mantenerme al día con el siempre cambiante mundo del desarrollo de IOS**.
 
-🛠️ **Mis habilidades incluyen:**
+🛠️ **Tech Stack:**
 
 * Lenguaje: **Swift**
-* Frameworks y Librerías: **UIKit**, **SwiftUI**, **Core Data**, **Networking**, **Firebase**, **CocoaPods**, **SPM (Swift Package Manager)**
-* Arquitecturas: **MVVM** | **ViPER**
-* Patrones de Diseño
-* Pruebas Unitarias e de Interfaz de Usuario (Unit & UI Testing)
-* Control de Versiones: **Git** |**Github**
-* Metodologías Ágiles 
-* Integración con APIs RESTful (JSON, XML)
+* Frameworks y Librerías: **UIKit**, **SwiftUI**, **Core Data**
+* Arquitecturas: **MVC** | **MVVM** | **ViPER**
+* Patrones de Diseño : **Observer** | **Singleton** | **Builder**
+* Testing: Unit Testing (XCTest), UI Testing
+* Tools: Xcode, Git, GitHub, Firebase, Swift Package Manager (SPM)
+* Integración con REST APIs, JSON
 * Experiencia en depuración y resolución de problemas
 
 🌍 Mi experiencia trabajando en compañías internacionales me ha permitido colaborar en equipos multidisciplinarios y adaptarme a diferentes culturas de trabajo, siempre buscando la excelencia en el desarrollo de software.
 
 📫 ¡Me encantaría conectar! Puedes encontrarme en:
  <div>
- <a href="https://www.linkedin.com/in/pablo-paredes-rojas-b11662291/">
+  
+ <a href="https://www.linkedin.com/in/pablo-paredes-dev-ios/">
+  
   <img src="https://camo.githubusercontent.com/ac7efb8b51819e0200381a20f786fec6c747fb736773b1dcc76591e3be873aef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d304130323039" alt="Perfil de LinkedIn de Pablo Paredes Rojas" data-canonical-src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A0209" style="max-width: 100%;">
 </a>
+  
 <a href="mailto:paredespablosk8@gmail.com">
    <img src="https://camo.githubusercontent.com/ed9175462889ad302f429741f144ae40122246b5c790e486c5ab9263192b2cf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d304130323039" alt="El correo electrónico de Anmol es hi@anmolbaranwal.com" data-canonical-src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&amp;logo=gmail&amp;logoColor=0A0209" style="max-width: 100%;">
   </a>
@@ -55,9 +65,11 @@
 
 ✅ **Inteligencia Artificial Generativa** | **LLM Apps** | **Cursor IA** | **Agentes IA**
 
+✅ **Python**
+
 ✅ **Desarrollo Web** :  **Html / Css / Javascript**
 
-✅ **Python**
+
 
  <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
  <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
