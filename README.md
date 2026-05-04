@@ -60,14 +60,14 @@ Additionally, I bring a data-driven mindset from my background in process optimi
 </a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="150" style="margin:10px;"/>
 </p>
 
  
-   
- <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
+
+ 
   
-<img alt="swift" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
+
 
 <h3>🛠️ Tech Stack</h3>
 
@@ -93,14 +93,13 @@ Additionally, I bring a data-driven mindset from my background in process optimi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" style="margin:10px;"/>
 </p>
 
-
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Integration-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-OpenAI-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CoreML-iOS-green?style=for-the-badge"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
 
 
  <h2 align="left">Contributions:</h2>
