@@ -1,83 +1,108 @@
 <h1 align="center">Hi, I'm PABLO <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" ></h1>
 <img src="https://images.squarespace-cdn.com/content/v1/645a1b40996e051496a2da2c/9307be96-cb8c-4718-a300-8da19e55ae8b/Appleism+cult.+Ylyth+Magazine+AIPix.+2023.png?format=2500w" />
-<h2 align="center" style="display: inline; vertical-align: middle;">Un apasionado del Desarrollo IOS y del skate.</h2>
+<h2 align="center" style="display: inline; vertical-align: middle;">A passionate iOS developer and AI enthusiast</h2>
  <div>
-  ¡No dudes en contactarme si tienes alguna oportunidad interesante o simplemente quieres charlar sobre desarrollo iOS y el mundo del skate! 🛹</p>
-  <p align="center" dir="auto">
- <a href="https://www.linkedin.com/in/pablo-paredes-rojas-b11662291/">
-  <img  src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> </a>
-<a href="mailto:paredespablosk8@gmail.com">
-<img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"> </a>
-</div>
+  Don't hesitate to contact me if you have any interesting opportunities or just want to chat about iOS development and the world of AI. 🛹</p>
+  <p align="center" dir="auto"> 
+   
+  <a href="https://linkedin.com/in/pabloparedesdev-ios" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Paredes-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+   <a href="mailto:paredespablosk8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Pablo%20Paredes-red?style=for-the-badge&logo=gmail" />
+</a>
+ </div>
 </p>
 
- 👋 🚀 Desarrollador iOS especializado en la creación de aplicaciones móviles escalables y de alto rendimiento con Swift, SwiftUI y UIKit.
-
-💡 Sobre mí
-
-Soy desarrollador iOS con experiencia en la entrega de aplicaciones de nivel de producción en Latinoamérica y España, enfocado en arquitectura limpia, rendimiento y experiencia de usuario.
-
-He trabajado en la creación de aplicaciones modulares y escalables, implementando funcionalidades clave como flujos de autenticación, componentes de interfaz de usuario reutilizables e integraciones de API.
-
-Mi formación en análisis de datos y optimización de procesos me permite abordar el desarrollo con una mentalidad orientada al rendimiento y a la resolución de problemas.
-
-💼 He trabajado en **compañías internacionales de Latam y España**, donde he contribuido al desarrollo de soluciones móviles de alta calidad y escalables, utilizando las últimas tecnologías y metodologías de desarrollo.
-
-🚀 **Mi enfoque principal es escribir código limpio, eficiente y bien documentado. Disfruto enfrentando desafíos técnicos y aprendiendo continuamente para mantenerme al día con el siempre cambiante mundo del desarrollo de IOS**.
-
-🛠️ **Tech Stack:**
-
-* Lenguaje: **Swift**
-* Frameworks y Librerías: **UIKit**, **SwiftUI**, **Core Data**
-* Arquitecturas: **MVC** | **MVVM** | **ViPER**
-* Patrones de Diseño : **Observer** | **Singleton** | **Builder**
-* Testing: Unit Testing (XCTest), UI Testing
-* Tools: Xcode, Git, GitHub, Firebase, Swift Package Manager (SPM)
-* Integración con REST APIs, JSON
-* Experiencia en depuración y resolución de problemas
-
-🌍 Mi experiencia trabajando en compañías internacionales me ha permitido colaborar en equipos multidisciplinarios y adaptarme a diferentes culturas de trabajo, siempre buscando la excelencia en el desarrollo de software.
-
-📫 ¡Me encantaría conectar! Puedes encontrarme en:
- <div>
-  
- <a href="https://www.linkedin.com/in/pablo-paredes-dev-ios/">
-  
-  <img src="https://camo.githubusercontent.com/ac7efb8b51819e0200381a20f786fec6c747fb736773b1dcc76591e3be873aef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d304130323039" alt="Perfil de LinkedIn de Pablo Paredes Rojas" data-canonical-src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A0209" style="max-width: 100%;">
-</a>
-  
-<a href="mailto:paredespablosk8@gmail.com">
-   <img src="https://camo.githubusercontent.com/ed9175462889ad302f429741f144ae40122246b5c790e486c5ab9263192b2cf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d304130323039" alt="El correo electrónico de Anmol es hi@anmolbaranwal.com" data-canonical-src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&amp;logo=gmail&amp;logoColor=0A0209" style="max-width: 100%;">
-  </a>
-</div>
-
-
-  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIzMjIwMTIsIm5iZiI6MTc0MjMyMTcxMiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE4VDE4MTUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4N2M5YzdkYTNlNDE2NWIxZjI4MDJiNjg4MmUyOTBmMzVkYmNmY2VkMzU1OGUwOTBmMTFmYTlkMGZhNTNiYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.q1FK8KknUuCRKfqNL1L5k8sverOESoz1a8dC5d6uAnw" width="520">
+<img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIzMjIwMTIsIm5iZiI6MTc0MjMyMTcxMiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE4VDE4MTUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4N2M5YzdkYTNlNDE2NWIxZjI4MDJiNjg4MmUyOTBmMzVkYmNmY2VkMzU1OGUwOTBmMTFmYTlkMGZhNTNiYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.q1FK8KknUuCRKfqNL1L5k8sverOESoz1a8dC5d6uAnw" width="520">
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800" style="vertical-align: middle; margin-right: -150px;">
  
+
+ 👋 Hi, I'm Pablo Paredes iOS developer specializing in creating scalable mobile applications using Swift, SwiftUI, and UIKit, integrating Generative AI
+
+## 💡 About Me
+
+I develop production-level iOS applications with a strong focus on clean architecture (MVVM), performance, and user experience.
+
+I have implemented key features such as authentication systems, modular UI components, and API integrations, contributing to scalable and maintainable apps.
+
+Additionally, I bring a data-driven mindset from my background in process optimization, always aiming to improve efficiency and product quality.
+
+## 🛠️ Tech Stack
+
+- Swift, SwiftUI, UIKit
+- MVC |MVVM Architecture
+- Firebase, REST APIs
+- XCTest (Unit & UI Testing)
+- Git, Xcode
+- Figma
+
+## 🤖 AI Experience
+
+- Integration of AI-powered features into applications
+- Experience working with LLM-based workflows
+- Exploring CoreML for on-device intelligence
+
+## 📱 Featured Projects
+
+- 🔐 Auth App – Firebase authentication, MVVM architecture  
+- 🛒 E-commerce App – API integration, product flow  
+- 🐾 Huellas App – UI/UX implementation, modular design
+
+## 📫 Contact
+<a href="https://linkedin.com/in/pabloparedesdev-ios" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Paredes-blue?style=for-the-badge&logo=linkedin" />
+</a>
+ 
+<a href="mailto:paredespablosk8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Pablo%20Paredes-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif"/>
+</p>
+
+ 
+   
  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
   
-<h2 align="left">Idiomas y herramientas:</h2>
+<img alt="swift" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 
-✅ **Ingles: Basico - Intermedio**
+<h3>🛠️ Tech Stack</h3>
 
-✅ **UIKit** | **SwiftUI** | **Core Data** | **Conbine** | **Firebase** | **CocoaPods** | **SPM (Swift Package Manager) | **Objective-C**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:10px;"/>
+</p>
 
-✅ **Inteligencia Artificial Generativa** | **LLM Apps** | **Cursor IA** | **Agentes IA**
+<p align="center">
+  <img src="https://img.shields.io/badge/SwiftUI-Framework-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UIKit-Framework-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVVM-Architecture-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XCTest-Testing-red?style=for-the-badge"/>
+</p>
 
-✅ **Python**
-
-✅ **Desarrollo Web** :  **Html / Css / Javascript**
+<h3>🤖 AI & Machine Learning</h3>
 
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" style="margin:10px;"/>
+</p>
 
- <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
- <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
- <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="60"/> </a> <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="50"/> </a> <a href="https://developer.apple.es/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="100" height="60"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablodev82&show_icons=true&locale=es&layout=compact" alt="pablodev82" /></p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Integration-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-OpenAI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CoreML-iOS-green?style=for-the-badge"/>
+</p>
+
+
+ <h2 align="left">Contributions:</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablodev82&" alt="pablodev82" /></p>
 
