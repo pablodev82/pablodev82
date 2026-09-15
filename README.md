@@ -5,7 +5,7 @@
   Don't hesitate to contact me if you have any interesting opportunities or just want to chat about iOS development and the world of AI. 🛹</p>
   <p align="center" dir="auto"> 
    
-  <a href="https://linkedin.com/in/pabloparedesdev-ios" target="_blank">
+  <a href="https://www.linkedin.com/in/pablo-paredes-dev-ios/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Paredes-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
