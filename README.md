@@ -19,7 +19,17 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800" style="vertical-align: middle; margin-right: -150px;">
  
 
- 👋 Hi, I'm Pablo Paredes iOS developer specializing in creating scalable mobile applications using Swift, SwiftUI, and UIKit, integrating Generative AI
+# Hi, I'm an iOS Developer & AI Training Specialist 🚀
+
+An iOS Engineer with a unique blend of 6 years in International Logistics background and cutting-edge experience training advanced LLMs (Level 2) in Swift, SwiftUI, and UIKit.
+
+- 📱 Core Stack: Swift, SwiftUI, UIKit, Combine, Async/Await, CoreData.
+- 🏗️ Architecture & Best Practices: MVVM, Clean Architecture, XCTest (Unit Testing), Spec-Driven Development.
+- 🤖 AI Infrastructure: Agentic Workflows, Gemini CLI, Model Context Protocol (MCP).
+
+## Featured Projects
+- **LOGIMAP**: An iOS application focused on enterprise inventory solutions, real-time tracking, and hardware integration (barcode scanning). Built using SwiftUI and Clean Architecture.
+
 
 ## 💡 About Me
 
