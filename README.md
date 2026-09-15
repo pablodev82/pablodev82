@@ -61,7 +61,7 @@ Additionally, I bring a data-driven mindset from my background in process optimi
 - 🐾 Huellas App – UI/UX implementation, modular design
 
 ## 📫 Contact
-<a href="https://linkedin.com/in/pabloparedesdev-ios" target="_blank">
+<a href="https://www.linkedin.com/in/pablo-paredes-dev-ios/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Paredes-blue?style=for-the-badge&logo=linkedin" />
 </a>
  
